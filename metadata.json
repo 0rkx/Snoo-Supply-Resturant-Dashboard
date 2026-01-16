@@ -1,0 +1,5 @@
+{
+  "name": "SnooSupply Dashboard",
+  "description": "A comprehensive restaurant inventory and order management dashboard featuring real-time KPIs, smart AI reordering suggestions, and delivery tracking.",
+  "requestFramePermissions": []
+}
